@@ -26,6 +26,7 @@ gem 'mini_magick', '~> 3.7.0'
 gem 'devise'
 gem 'gravtastic', '~> 3.2.6'
 
+gem 'rspec-rails', '~> 3.0.0', group: [:development, :test]
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
